@@ -1,7 +1,7 @@
 123z
 222
 33213212
-222
+22222
 
 sudo -Hu www ssh-keygen -t rsa -C "542575227@qq.com"
 
