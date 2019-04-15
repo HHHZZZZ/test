@@ -6,3 +6,6 @@
 sudo -Hu www ssh-keygen -t rsa -C "542575227@qq.com"
 
 sudo -Hu www git clone git@github.com:sy-records/WordPress-tools.git
+
+
+file_put_contents("aa.log", $res_log, FILE_APPEND);
